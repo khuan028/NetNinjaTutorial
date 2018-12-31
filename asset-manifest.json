@@ -1,14 +1,14 @@
 {
-  "main.css": "/NetNinjaTutorial/static/css/main.c0dd67a6.chunk.css",
-  "main.js": "/NetNinjaTutorial/static/js/main.7d6a665f.chunk.js",
-  "main.js.map": "/NetNinjaTutorial/static/js/main.7d6a665f.chunk.js.map",
+  "main.css": "/NetNinjaTutorial/static/css/main.6245ca84.chunk.css",
+  "main.js": "/NetNinjaTutorial/static/js/main.1871ab56.chunk.js",
+  "main.js.map": "/NetNinjaTutorial/static/js/main.1871ab56.chunk.js.map",
   "static/js/1.0ba314ad.chunk.js": "/NetNinjaTutorial/static/js/1.0ba314ad.chunk.js",
   "static/js/1.0ba314ad.chunk.js.map": "/NetNinjaTutorial/static/js/1.0ba314ad.chunk.js.map",
   "runtime~main.js": "/NetNinjaTutorial/static/js/runtime~main.f8af5e8e.js",
   "runtime~main.js.map": "/NetNinjaTutorial/static/js/runtime~main.f8af5e8e.js.map",
   "static/media/index.css": "/NetNinjaTutorial/static/media/mario-bg.0ab14f44.png",
-  "static/css/main.c0dd67a6.chunk.css.map": "/NetNinjaTutorial/static/css/main.c0dd67a6.chunk.css.map",
+  "static/css/main.6245ca84.chunk.css.map": "/NetNinjaTutorial/static/css/main.6245ca84.chunk.css.map",
   "index.html": "/NetNinjaTutorial/index.html",
-  "precache-manifest.8d4c2dbc7e8fc92f7b7075f74cce74fd.js": "/NetNinjaTutorial/precache-manifest.8d4c2dbc7e8fc92f7b7075f74cce74fd.js",
+  "precache-manifest.50caa22b89c8a873bfd27ed46a5402c6.js": "/NetNinjaTutorial/precache-manifest.50caa22b89c8a873bfd27ed46a5402c6.js",
   "service-worker.js": "/NetNinjaTutorial/service-worker.js"
 }
