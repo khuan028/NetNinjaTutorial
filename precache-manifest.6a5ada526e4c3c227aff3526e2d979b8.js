@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/NetNinjaTutorial/static/js/runtime~main.f8af5e8e.js"
   },
   {
-    "revision": "a8520035fe0bc1ce7fec",
-    "url": "/NetNinjaTutorial/static/js/main.a8520035.chunk.js"
+    "revision": "10664d1e91bf45f7fc96",
+    "url": "/NetNinjaTutorial/static/js/main.10664d1e.chunk.js"
   },
   {
     "revision": "553f6926fb6d5c53035b",
     "url": "/NetNinjaTutorial/static/js/1.553f6926.chunk.js"
   },
   {
-    "revision": "a8520035fe0bc1ce7fec",
+    "revision": "10664d1e91bf45f7fc96",
     "url": "/NetNinjaTutorial/static/css/main.1b63e3f7.chunk.css"
   },
   {
-    "revision": "e72a51fcdfb4b30b562107b971303694",
+    "revision": "f991a8afa17dda94e4a3b073ec341172",
     "url": "/NetNinjaTutorial/index.html"
   }
 ];
