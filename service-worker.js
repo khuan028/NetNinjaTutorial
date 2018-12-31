@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/NetNinjaTutorial/precache-manifest.6a5ada526e4c3c227aff3526e2d979b8.js"
+  "/NetNinjaTutorial/precache-manifest.c9b1383b6b70df6f1e7130b38538d0e2.js"
 );
 
 workbox.clientsClaim();
